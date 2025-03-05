@@ -1,5 +1,6 @@
 # KnightPathGame
 Knight’s Path Game.
+
 To build Qt 6 projects on Linux, you will need to install the following components:
 Installing the base dependencies:
 >sudo apt update
